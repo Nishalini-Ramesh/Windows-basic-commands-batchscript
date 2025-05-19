@@ -24,42 +24,80 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
+![alt text](<Screenshot 2025-05-19 174908.png>)
+
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+
+![alt text](<Screenshot 2025-05-19 174945.png>)
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
 
+![alt text](<Screenshot 2025-05-19 175025.png>)
+
+
 ## COMMAND AND OUTPUT
 
-
 Create the file hello.txt using echo and redirection
+
+![alt text](<Screenshot 2025-05-19 175208.png>)
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
 
+![alt text](<Screenshot 2025-05-19 175257.png>)
+
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
+![alt text](<Screenshot 2025-05-19 175336.png>)
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
 
+![alt text](<Screenshot 2025-05-19 175459.png>)
+
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+
+![alt text](<Screenshot 2025-05-19 175621.png>)
+
+
+![alt text](<Screenshot 2025-05-19 175906.png>) 
+
+
+![alt text](<Screenshot 2025-05-19 175737.png>)
+
+
+![alt text](<Screenshot 2025-05-19 175649.png>) 
+
+
+![alt text](<Screenshot 2025-05-19 175716.png>)
+
+
+
+
+![alt text](<Screenshot 2025-05-19 175850.png>)
+
+
+
+![alt text](<Screenshot 2025-05-19 175922.png>)
+
 
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
 
-## COMMAND AND OUTPUT
+![alt text](<Screenshot 2025-05-19 180007.png>)
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
