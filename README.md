@@ -102,11 +102,9 @@ Compare the file hello.txt and rose.txt
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
-
-
-
-
 ## OUTPUT
+
+![alt text](<Screenshot 2025-05-19 182655.png>)
 
 
 
@@ -122,7 +120,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
+![alt text](<Screenshot 2025-05-19 182832.png>)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -132,7 +130,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-
+![alt text](<Screenshot 2025-05-19 182941.png>)
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -146,6 +144,8 @@ Expected Output (if the file exists):
 ## OUTPUT
 
 
+![alt text](<Screenshot 2025-05-19 183116.png>)
+
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
@@ -154,6 +154,12 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+
+![alt text](<Screenshot 2025-05-19 183240.png>)
+
+![alt text](<Screenshot 2025-05-19 183144.png>)
+
+![alt text](<Screenshot 2025-05-19 183201.png>)
 
 
 
